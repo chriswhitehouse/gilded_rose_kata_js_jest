@@ -1,4 +1,5 @@
-const {Shop, Item} = require("../../src/gilded_rose");
+const { Shop } = require("../../src/shop.js");
+const { Item } = require("../../src/item.js");
 
 const items = [
       new Item('apple', 1, 3)
