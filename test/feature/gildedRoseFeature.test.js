@@ -1,4 +1,4 @@
-const {Shop, Item} = require("../src/gilded_rose");
+const {Shop, Item} = require("../../src/gilded_rose");
 
 const items = [
       new Item('apple', 1, 3)
